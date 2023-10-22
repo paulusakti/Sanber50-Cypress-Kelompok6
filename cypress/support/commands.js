@@ -27,3 +27,7 @@
 Cypress.Commands.add('getClass', (classSelector) => { 
     return cy.get(`[class="${classSelector}"]`)    
 })
+
+Cypress.Commands.add('getId', (idSelector) => { 
+    return cy.get(`[id="${idSelector}"]`)    
+})
