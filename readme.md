@@ -7,5 +7,5 @@
 * Menambahkan / edit file kalian (mis. login.cy.js) didalam folder cypress/e2e
 
 ## How to run
-npx cypress open, untuk menjalankan test case secara GUI
-npx cypress run --spec [path] untuk menjalankan test case secara CLI
+* npx cypress open, untuk menjalankan test case secara GUI
+* npx cypress run --spec [path] untuk menjalankan test case secara CLI
