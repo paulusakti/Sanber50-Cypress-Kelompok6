@@ -151,6 +151,4 @@ describe('ATC by Listing', () => {
         cy.getClass('item product product-item')
             .should('have.length', 12)
     })
-
-    
 })
